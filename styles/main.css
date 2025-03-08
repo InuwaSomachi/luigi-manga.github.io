@@ -1,0 +1,38 @@
+body {
+    background-color: #008C45; /* Luigi green */
+    font-family: 'Comic Sans MS', cursive;
+    color: white;
+}
+
+.luigi-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+
+.button-container button {
+    background-color: #4CAF50;
+    border: 3px solid #fff;
+    padding: 15px 30px;
+    margin: 10px;
+    font-size: 1.2em;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+.chapter-list a {
+    display: block;
+    color: white;
+    background-color: #1E5631;
+    padding: 15px;
+    margin: 10px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.spotify-player {
+    margin: 20px 0;
+}
+
+/* Add more styles for images and navigation */
